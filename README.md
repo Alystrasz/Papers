@@ -1,7 +1,9 @@
 # Papers
 Regroups some papers and publications from me.
 
-## List of documents
+
+## List of documents
+
 
 ### Improving Android: location privacy protection and energy consumption
 
